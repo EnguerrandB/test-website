@@ -73,7 +73,7 @@ a .btn {
 }
 
 .hero .heroD {
-  background-image: url("img/NFT_bull.png");
+  background-image: url("NFT_bull.png");
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 10002;
